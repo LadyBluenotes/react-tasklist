@@ -11,6 +11,3 @@ function App() {
 }
 
 export default App;
-
-
-// at 43 minutes for traversy video on react
